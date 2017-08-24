@@ -1,0 +1,30 @@
+.header {
+	padding: 10px;
+}
+
+.page-header {
+	font-size: 0.7em;
+	display: flex;
+	margin: 0;
+	padding: 0;
+	align-items: center;
+}
+
+.page-title {
+	text-transform: uppercase;
+	color: var(--green-light);
+	display: block;
+}
+
+.page-subtitle {
+	display: block;
+	color: var(--grey);
+	text-transform: none;
+	font-weight: normal;
+
+}
+
+.svg-logo {
+	display: block;
+	margin-right: 10px;
+}

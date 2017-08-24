@@ -1,0 +1,22 @@
+.home {
+	padding: 0 10px;
+	padding-top: 3rem;
+	text-align: center;
+}
+
+.title {
+	font-weight: normal;
+	/*margin: 0;*/
+	font-size: .8rem;
+	line-height: 1.2rem;
+}
+
+.placeIcon {
+	width: 80px;
+	height: 80px;
+	color: var(--green-light);
+}
+.placeIcon svg {
+	width: 100%;
+	height: 100%;
+}
